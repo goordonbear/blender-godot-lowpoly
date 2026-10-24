@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.blend1
+*.glb
+*.glb.import
+out.avi
+*.png
+!templates/*.gdshader
