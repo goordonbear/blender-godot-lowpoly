@@ -3,6 +3,8 @@
 An Agent Skill for building low-poly 3D games with **Blender headless procedural
 modelling** and **Godot 4**.
 
+> 繁體中文版：[README.zh-TW.md](README.zh-TW.md)
+
 Distilled from a shipped endless runner: a pelican riding a bicycle along a
 coastal road, with procedural meshes, cel shading, cartoon outlines, procedural
 audio and a 51-check test suite.
